@@ -1,3 +1,6 @@
+
+//Calculate First Occurance last Occureance of nodes
+
 #include<stdio.h>
 #include<stdlib.h>
 
